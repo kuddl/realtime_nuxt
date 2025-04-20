@@ -14,3 +14,5 @@ Things to try out:
   - Netlify Functions
   - Netlify Edge Functions
   - Netlify Environment
+  - Netlify Lighthouse Plugin
+  - 
